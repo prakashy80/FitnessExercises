@@ -1,3 +1,5 @@
+# Fitness Exercises
+Devloped this beautiful web application using React and material UI. Search and explore all kind of exercises, exercises by bodypart, exercises by targetMuscle, exercises by equipment and present there link to watch the youtube video to learn how to do that exercise.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
